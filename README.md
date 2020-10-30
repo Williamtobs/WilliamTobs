@@ -1,10 +1,10 @@
 ### Hi there 👋
 I am William Tobi. I am a CS student and I Love ❤️ programming 
 
-      Language & Skills
-Python
-Java
-HTML
+### Language & Skills
+- Python
+- Java
+- HTML
 
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on any project
