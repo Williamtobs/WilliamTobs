@@ -7,6 +7,6 @@ I am William Tobi. I am a CS student and I Love ❤️ programming
 - HTML
 
 ### More
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on any project
 - 📫 How to reach me: akeem.tobi@yahoo.com
