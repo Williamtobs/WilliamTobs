@@ -4,7 +4,7 @@ I am William Tobi. I am a CS student and I Love ❤️ programming
 ### Language & Skills
 - Python
 - Java
-- HTML
+- Kotlin
 
 ### More
 - 🌱 learning Machine Learning (https://github.com/Williamtobs/Data-Science-Portfolio)
