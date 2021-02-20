@@ -2,8 +2,9 @@
 I am William Tobi. I am a CS student and I Love ❤️ programming 
 
 ### Language & Skills
-- Python
 - Java
+- Python
+- Dart
 - Kotlin
 
 ### More
