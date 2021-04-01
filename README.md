@@ -5,10 +5,11 @@ I am William Tobi. I am a CS student and I Love ❤️ programming
 - Java
 - Python
 - Dart
+- Flutter
 - Kotlin
 
 ### More
-- 🌱 learning Machine Learning (https://github.com/Williamtobs/Data-Science-Portfolio)
-- Currently learning Kotlin
+- 🌱 Machine Learning (https://github.com/Williamtobs/Data-Science-Portfolio)
+- 🌱 Currently learning Flutter
 - 👯 I’m looking to collaborate on any project
 - 📫 How to reach me: akeem.tobi@yahoo.com
