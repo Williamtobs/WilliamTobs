@@ -9,6 +9,7 @@ I am William Tobi. I am a CS student and I Love ❤️ programming
 - Kotlin
 
 ### More
+- 🌱 Portfolio App (https://github.com/Williamtobs/FlutterPortfolioApp) 
 - 🌱 Machine Learning (https://github.com/Williamtobs/Data-Science-Portfolio)
 - 🌱 Currently learning Flutter
 - 👯 I’m looking to collaborate on any project
