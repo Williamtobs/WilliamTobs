@@ -7,6 +7,8 @@ I am William Tobi. I am a CS student and I Love ❤️ programming
 - Dart
 - Flutter
 - Kotlin
+- HTML
+- CSS
 
 ### More
 - 🌱 Portfolio App (https://github.com/Williamtobs/FlutterPortfolioApp) 
