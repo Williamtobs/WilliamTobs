@@ -1,18 +1,25 @@
-### Hi there 👋
-I am William Tobi. I am a CS student and I Love ❤️ programming 
+<h1 align="center">Hi 👋, I'm William Tobi</h1>
+<h3 align="center">An aspiring Software Developer from Nigeria</h3>
 
-### Language & Skills
-- Java
-- Python
-- Dart
-- Flutter
-- Kotlin
-- HTML
-- CSS
+<br>
 
-### More
-- 🌱 Portfolio App (https://github.com/Williamtobs/FlutterPortfolioApp) 
-- 🌱 Machine Learning (https://github.com/Williamtobs/Data-Science-Portfolio)
-- 🌱 Currently learning Flutter
-- 👯 I’m looking to collaborate on any project
-- 📫 How to reach me: akeem.tobi@yahoo.com
+
+![Mohit](https://github-readme-stats.vercel.app/api?username=Williamtobs&show_icons=true&theme=blue-green)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Williamtobs&layout=compact&theme=blue-green)](https://github.com/Williamtobs/github-readme-stats)
+
+<br>
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/thisiswilltobs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="thisiswilltobs" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/toby-william-806a341aa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Toby William" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href ="https://www.java.com/en/" target ="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/></a> <a href ="https://www.python.org/" target ="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
+
+<!--
+<p align= "center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=williamtobs&show_icons=true&theme=merko&title_color=19cc91&text_color=19cc91&locale=en&layout=compact" alt="williamtobs" />
+-->
