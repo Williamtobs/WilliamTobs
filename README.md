@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm William Tobi</h1>
-<h3 align="center">An aspiring Software Developer from Nigeria</h3>
+<h3 align="center">A passionate cross platform mobile developer(flutter)</h3>
 
 <br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Williamtobs" alt="Williamtobs" /></a> </p>
+<p align="left"> <a href="https://twitter.com/thisiswilltobs" target="blank"><img src="https://img.shields.io/twitter/follow/thisiswilltobs?logo=twitter&style=for-the-badge" alt="thisiswilltobs" /></a> </p>
 
+<br>
 
 ![William](https://github-readme-stats.vercel.app/api?username=Williamtobs&show_icons=true&theme=blue-green)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Williamtobs&layout=compact&theme=blue-green)](https://github.com/Williamtobs/github-readme-stats)
 
-<br>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,8 +20,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href ="https://www.java.com/en/" target ="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/></a> <a href ="https://www.python.org/" target ="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
-
-<!--
-<p align= "center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=williamtobs&show_icons=true&theme=merko&title_color=19cc91&text_color=19cc91&locale=en&layout=compact" alt="williamtobs" />
--->
