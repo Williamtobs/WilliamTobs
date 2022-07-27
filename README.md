@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm William Tobi</h1>
 <h3 align="center">A passionate cross platform mobile developer(flutter)</h3>
 
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=williamtobs&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
+
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Williamtobs" alt="Williamtobs" /></a> </p>
 <p align="left"> <a href="https://twitter.com/thisiswilltobs" target="blank"><img src="https://img.shields.io/twitter/follow/thisiswilltobs?logo=twitter&style=for-the-badge" alt="thisiswilltobs" /></a> </p>
 <p align="left">
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamtobs&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe)](https://github.com/williamtobs?tab=repositories)
+
 <b>Visitor count</b>
 <br><img src="https://profile-counter.glitch.me/Williamtobs/count.svg" />
 </p>
-
-<br>
 
 <br>
 <h3 align="left">Connect with me:</h3>
