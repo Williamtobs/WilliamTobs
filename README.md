@@ -2,8 +2,6 @@
 <h3 align="center">A passionate cross platform mobile developer(flutter)</h3>
 
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=williamtobs&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
-
 <br>
 <p align="left"> <a href="https://twitter.com/thisiswilltobs" target="blank"><img src="https://img.shields.io/twitter/follow/thisiswilltobs?logo=twitter&style=for-the-badge" alt="thisiswilltobs" /></a> </p>
 <p align="left">
