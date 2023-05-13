@@ -16,6 +16,7 @@
 - 👋 Hi, I’m William Tobi.
 - 💼 I'm a Mobile Engineer at [Wiseki](https://wiseki.com/) and I build amazing stuff with flutter.
 - 📫Check out my resume: [Here](https://docs.google.com/document/d/1ljSy4S8PP2tU7cyzGOFBKDT3J5JVsMXr/edit?usp=sharing&ouid=106685429009377644197&rtpof=true&sd=true)...
+- 💼 My portfolio: [Here](https://zaap.bio/tobiportfolio)...
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
