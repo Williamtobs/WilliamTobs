@@ -32,7 +32,7 @@
 <br>
 <img
   src="https://github.com/WilliamTobs/WilliamTobs/blob/<branch-name>/images/stat.svg"
-  alt="Alternative Text"
+  alt="William WakaTime Activity"
 />
 
 
