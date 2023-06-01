@@ -29,6 +29,14 @@
 <a href="https://www.firebase.dev/"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-430098?style=for-the-badge&logo=firebase&logoColor=white"></a>
 
 
+<br>
+<img
+  src="https://github.com/WilliamTobs/WilliamTobs/blob/<branch-name>/images/stat.svg"
+  alt="Alternative Text"
+/>
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamtobs&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe)](https://github.com/williamtobs?tab=repositories)
 
 <b>Visitor count</b>
