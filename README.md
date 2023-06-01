@@ -31,9 +31,10 @@
 
 <br>
 <img
-  src="https://github.com/WilliamTobs/WilliamTobs/blob/<branch-name>/images/stat.svg"
+  src="https://github.com/WilliamTobs/WilliamTobs/blob/main/images/stat.svg"
   alt="William WakaTime Activity"
 />
+
 
 
 
