@@ -14,7 +14,7 @@
   </a>  
 
 - 👋 Hi, I’m William Tobi.
-- 💼 I'm a Mobile Engineer at [AfriPoint Group](https://www.afripointgroup.com) and I build amazing stuff with flutter.
+- 💼 I'm a Flutter Mobile Engineer at [Nativebrand](https://nativebrands.co/) and I build amazing stuff with flutter.
 - 📫 Check out my resume: [Here](https://docs.google.com/document/d/1ljSy4S8PP2tU7cyzGOFBKDT3J5JVsMXr/edit?usp=sharing&ouid=106685429009377644197&rtpof=true&sd=true)...
 - 💼 My portfolio: [Here](https://zaap.bio/tobiportfolio)...
 
