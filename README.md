@@ -14,7 +14,7 @@
   </a>  
 
 - 👋 Hi, I’m William Tobi.
-- 💼 I'm a Flutter Mobile Engineer at [Nativebrands](https://nativebrands.co/) and I build amazing stuff with flutter.
+- 💼 I'm a Flutter Mobile Engineer with 4 years of experience and I build amazing stuff with flutter.
 - 📫 Check out my resume: [Here](https://docs.google.com/document/d/1v1PwBFTURCZy006_lccsM-mymLbeCwml3dNK6DOx7c8/edit?usp=sharing)...
 - 💼 My portfolio: [Here](https://zaap.bio/tobiportfolio)...
 
